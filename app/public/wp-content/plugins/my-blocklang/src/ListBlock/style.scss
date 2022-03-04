@@ -1,0 +1,20 @@
+.has-spacing-Red > li::marker {
+	color: red;
+}
+
+.has-spacing-Blue > li::marker {
+	color: blue;
+}
+.has-spacing-default > li::marker {
+	color: black;
+}
+
+.has-spacings-Reds li ul li::marker {
+	color: red;
+}
+.has-spacings-Blues li ul li::marker {
+	color: blue;
+}
+.has-spacings-defaults li ul li::marker {
+	color: black;
+}

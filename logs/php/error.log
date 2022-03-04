@@ -1,0 +1,137 @@
+[26-Feb-2022 06:17:27 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:17:38 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:17:39 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:17:43 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:17:49 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:17:49 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:17:53 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:18:17 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:18:21 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:18:21 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:19:18 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:19:19 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:19:26 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:19:31 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:19:33 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:19:34 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:19:45 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:19:46 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:19:46 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:19:55 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:19:56 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:20:00 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:20:08 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:20:14 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:20:44 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:20:47 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:20:47 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:25:32 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:25:42 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 102
+[26-Feb-2022 06:26:08 UTC] PHP Warning:  require(C:\Users\User\Local Sites\planning\app\public/wp-content/themes/twentytwentytwo/src/init.php): failed to open stream: No such file or directory in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\plugin.php on line 27
+[26-Feb-2022 06:26:08 UTC] PHP Stack trace:
+[26-Feb-2022 06:26:08 UTC] PHP   1. {main}() C:\Users\User\Local Sites\planning\app\public\index.php:0
+[26-Feb-2022 06:26:08 UTC] PHP   2. require() C:\Users\User\Local Sites\planning\app\public\index.php:17
+[26-Feb-2022 06:26:08 UTC] PHP   3. require_once() C:\Users\User\Local Sites\planning\app\public\wp-blog-header.php:13
+[26-Feb-2022 06:26:08 UTC] PHP   4. require_once() C:\Users\User\Local Sites\planning\app\public\wp-load.php:50
+[26-Feb-2022 06:26:08 UTC] PHP   5. require_once() C:\Users\User\Local Sites\planning\app\public\wp-config.php:77
+[26-Feb-2022 06:26:08 UTC] PHP   6. include_once() C:\Users\User\Local Sites\planning\app\public\wp-settings.php:418
+[26-Feb-2022 06:26:08 UTC] PHP Fatal error:  require(): Failed opening required 'C:\Users\User\Local Sites\planning\app\public/wp-content/themes/twentytwentytwo/src/init.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\plugin.php on line 27
+[26-Feb-2022 06:26:08 UTC] PHP Stack trace:
+[26-Feb-2022 06:26:08 UTC] PHP   1. {main}() C:\Users\User\Local Sites\planning\app\public\index.php:0
+[26-Feb-2022 06:26:08 UTC] PHP   2. require() C:\Users\User\Local Sites\planning\app\public\index.php:17
+[26-Feb-2022 06:26:08 UTC] PHP   3. require_once() C:\Users\User\Local Sites\planning\app\public\wp-blog-header.php:13
+[26-Feb-2022 06:26:08 UTC] PHP   4. require_once() C:\Users\User\Local Sites\planning\app\public\wp-load.php:50
+[26-Feb-2022 06:26:08 UTC] PHP   5. require_once() C:\Users\User\Local Sites\planning\app\public\wp-config.php:77
+[26-Feb-2022 06:26:08 UTC] PHP   6. include_once() C:\Users\User\Local Sites\planning\app\public\wp-settings.php:418
+[26-Feb-2022 06:26:33 UTC] PHP Warning:  require(C:\Users\User\Local Sites\planning\app\public/wp-content/themes/twentytwentytwo/src/init.php): failed to open stream: No such file or directory in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\plugin.php on line 27
+[26-Feb-2022 06:26:33 UTC] PHP Stack trace:
+[26-Feb-2022 06:26:33 UTC] PHP   1. {main}() C:\Users\User\Local Sites\planning\app\public\wp-admin\admin-ajax.php:0
+[26-Feb-2022 06:26:33 UTC] PHP   2. require_once() C:\Users\User\Local Sites\planning\app\public\wp-admin\admin-ajax.php:22
+[26-Feb-2022 06:26:33 UTC] PHP   3. require_once() C:\Users\User\Local Sites\planning\app\public\wp-load.php:50
+[26-Feb-2022 06:26:33 UTC] PHP   4. require_once() C:\Users\User\Local Sites\planning\app\public\wp-config.php:77
+[26-Feb-2022 06:26:33 UTC] PHP   5. include_once() C:\Users\User\Local Sites\planning\app\public\wp-settings.php:418
+[26-Feb-2022 06:26:33 UTC] PHP Fatal error:  require(): Failed opening required 'C:\Users\User\Local Sites\planning\app\public/wp-content/themes/twentytwentytwo/src/init.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\plugin.php on line 27
+[26-Feb-2022 06:26:33 UTC] PHP Stack trace:
+[26-Feb-2022 06:26:33 UTC] PHP   1. {main}() C:\Users\User\Local Sites\planning\app\public\wp-admin\admin-ajax.php:0
+[26-Feb-2022 06:26:33 UTC] PHP   2. require_once() C:\Users\User\Local Sites\planning\app\public\wp-admin\admin-ajax.php:22
+[26-Feb-2022 06:26:33 UTC] PHP   3. require_once() C:\Users\User\Local Sites\planning\app\public\wp-load.php:50
+[26-Feb-2022 06:26:33 UTC] PHP   4. require_once() C:\Users\User\Local Sites\planning\app\public\wp-config.php:77
+[26-Feb-2022 06:26:33 UTC] PHP   5. include_once() C:\Users\User\Local Sites\planning\app\public\wp-settings.php:418
+[26-Feb-2022 06:27:52 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 121
+[26-Feb-2022 06:27:57 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 121
+[26-Feb-2022 06:27:58 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 121
+[26-Feb-2022 06:27:59 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 121
+[26-Feb-2022 06:28:01 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 121
+[26-Feb-2022 06:28:05 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 121
+[26-Feb-2022 06:28:05 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 121
+[26-Feb-2022 06:28:08 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 121
+[26-Feb-2022 06:28:08 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 121
+[26-Feb-2022 06:28:16 UTC] PHP Warning:  require(C:\Users\User\Local Sites\planning\app\public/wp-content/themes/twentytwentytwo/src/init.php): failed to open stream: No such file or directory in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\plugin.php on line 27
+[26-Feb-2022 06:28:16 UTC] PHP Stack trace:
+[26-Feb-2022 06:28:16 UTC] PHP   1. {main}() C:\Users\User\Local Sites\planning\app\public\wp-admin\post.php:0
+[26-Feb-2022 06:28:16 UTC] PHP   2. require_once() C:\Users\User\Local Sites\planning\app\public\wp-admin\post.php:12
+[26-Feb-2022 06:28:16 UTC] PHP   3. require_once() C:\Users\User\Local Sites\planning\app\public\wp-admin\admin.php:34
+[26-Feb-2022 06:28:16 UTC] PHP   4. require_once() C:\Users\User\Local Sites\planning\app\public\wp-load.php:50
+[26-Feb-2022 06:28:16 UTC] PHP   5. require_once() C:\Users\User\Local Sites\planning\app\public\wp-config.php:77
+[26-Feb-2022 06:28:16 UTC] PHP   6. include_once() C:\Users\User\Local Sites\planning\app\public\wp-settings.php:418
+[26-Feb-2022 06:28:16 UTC] PHP Fatal error:  require(): Failed opening required 'C:\Users\User\Local Sites\planning\app\public/wp-content/themes/twentytwentytwo/src/init.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\plugin.php on line 27
+[26-Feb-2022 06:28:16 UTC] PHP Stack trace:
+[26-Feb-2022 06:28:16 UTC] PHP   1. {main}() C:\Users\User\Local Sites\planning\app\public\wp-admin\post.php:0
+[26-Feb-2022 06:28:16 UTC] PHP   2. require_once() C:\Users\User\Local Sites\planning\app\public\wp-admin\post.php:12
+[26-Feb-2022 06:28:16 UTC] PHP   3. require_once() C:\Users\User\Local Sites\planning\app\public\wp-admin\admin.php:34
+[26-Feb-2022 06:28:16 UTC] PHP   4. require_once() C:\Users\User\Local Sites\planning\app\public\wp-load.php:50
+[26-Feb-2022 06:28:16 UTC] PHP   5. require_once() C:\Users\User\Local Sites\planning\app\public\wp-config.php:77
+[26-Feb-2022 06:28:16 UTC] PHP   6. include_once() C:\Users\User\Local Sites\planning\app\public\wp-settings.php:418
+[26-Feb-2022 06:28:16 UTC] PHP Warning:  require(C:\Users\User\Local Sites\planning\app\public/wp-content/themes/twentytwentytwo/src/init.php): failed to open stream: No such file or directory in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\plugin.php on line 27
+[26-Feb-2022 06:28:16 UTC] PHP Stack trace:
+[26-Feb-2022 06:28:16 UTC] PHP   1. {main}() C:\Users\User\Local Sites\planning\app\public\index.php:0
+[26-Feb-2022 06:28:16 UTC] PHP   2. require() C:\Users\User\Local Sites\planning\app\public\index.php:17
+[26-Feb-2022 06:28:16 UTC] PHP   3. require_once() C:\Users\User\Local Sites\planning\app\public\wp-blog-header.php:13
+[26-Feb-2022 06:28:16 UTC] PHP   4. require_once() C:\Users\User\Local Sites\planning\app\public\wp-load.php:50
+[26-Feb-2022 06:28:16 UTC] PHP   5. require_once() C:\Users\User\Local Sites\planning\app\public\wp-config.php:77
+[26-Feb-2022 06:28:16 UTC] PHP   6. include_once() C:\Users\User\Local Sites\planning\app\public\wp-settings.php:418
+[26-Feb-2022 06:28:16 UTC] PHP Fatal error:  require(): Failed opening required 'C:\Users\User\Local Sites\planning\app\public/wp-content/themes/twentytwentytwo/src/init.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\plugin.php on line 27
+[26-Feb-2022 06:28:16 UTC] PHP Stack trace:
+[26-Feb-2022 06:28:16 UTC] PHP   1. {main}() C:\Users\User\Local Sites\planning\app\public\index.php:0
+[26-Feb-2022 06:28:16 UTC] PHP   2. require() C:\Users\User\Local Sites\planning\app\public\index.php:17
+[26-Feb-2022 06:28:16 UTC] PHP   3. require_once() C:\Users\User\Local Sites\planning\app\public\wp-blog-header.php:13
+[26-Feb-2022 06:28:16 UTC] PHP   4. require_once() C:\Users\User\Local Sites\planning\app\public\wp-load.php:50
+[26-Feb-2022 06:28:16 UTC] PHP   5. require_once() C:\Users\User\Local Sites\planning\app\public\wp-config.php:77
+[26-Feb-2022 06:28:16 UTC] PHP   6. include_once() C:\Users\User\Local Sites\planning\app\public\wp-settings.php:418
+[26-Feb-2022 06:28:17 UTC] PHP Warning:  require(C:\Users\User\Local Sites\planning\app\public/wp-content/themes/twentytwentytwo/src/init.php): failed to open stream: No such file or directory in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\plugin.php on line 27
+[26-Feb-2022 06:28:17 UTC] PHP Stack trace:
+[26-Feb-2022 06:28:17 UTC] PHP   1. {main}() C:\Users\User\Local Sites\planning\app\public\wp-admin\post.php:0
+[26-Feb-2022 06:28:17 UTC] PHP   2. require_once() C:\Users\User\Local Sites\planning\app\public\wp-admin\post.php:12
+[26-Feb-2022 06:28:17 UTC] PHP   3. require_once() C:\Users\User\Local Sites\planning\app\public\wp-admin\admin.php:34
+[26-Feb-2022 06:28:17 UTC] PHP   4. require_once() C:\Users\User\Local Sites\planning\app\public\wp-load.php:50
+[26-Feb-2022 06:28:17 UTC] PHP   5. require_once() C:\Users\User\Local Sites\planning\app\public\wp-config.php:77
+[26-Feb-2022 06:28:17 UTC] PHP   6. include_once() C:\Users\User\Local Sites\planning\app\public\wp-settings.php:418
+[26-Feb-2022 06:28:17 UTC] PHP Fatal error:  require(): Failed opening required 'C:\Users\User\Local Sites\planning\app\public/wp-content/themes/twentytwentytwo/src/init.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\plugin.php on line 27
+[26-Feb-2022 06:28:17 UTC] PHP Stack trace:
+[26-Feb-2022 06:28:17 UTC] PHP   1. {main}() C:\Users\User\Local Sites\planning\app\public\wp-admin\post.php:0
+[26-Feb-2022 06:28:17 UTC] PHP   2. require_once() C:\Users\User\Local Sites\planning\app\public\wp-admin\post.php:12
+[26-Feb-2022 06:28:17 UTC] PHP   3. require_once() C:\Users\User\Local Sites\planning\app\public\wp-admin\admin.php:34
+[26-Feb-2022 06:28:17 UTC] PHP   4. require_once() C:\Users\User\Local Sites\planning\app\public\wp-load.php:50
+[26-Feb-2022 06:28:17 UTC] PHP   5. require_once() C:\Users\User\Local Sites\planning\app\public\wp-config.php:77
+[26-Feb-2022 06:28:17 UTC] PHP   6. include_once() C:\Users\User\Local Sites\planning\app\public\wp-settings.php:418
+[26-Feb-2022 06:28:17 UTC] PHP Warning:  require(C:\Users\User\Local Sites\planning\app\public/wp-content/themes/twentytwentytwo/src/init.php): failed to open stream: No such file or directory in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\plugin.php on line 27
+[26-Feb-2022 06:28:17 UTC] PHP Stack trace:
+[26-Feb-2022 06:28:17 UTC] PHP   1. {main}() C:\Users\User\Local Sites\planning\app\public\index.php:0
+[26-Feb-2022 06:28:17 UTC] PHP   2. require() C:\Users\User\Local Sites\planning\app\public\index.php:17
+[26-Feb-2022 06:28:17 UTC] PHP   3. require_once() C:\Users\User\Local Sites\planning\app\public\wp-blog-header.php:13
+[26-Feb-2022 06:28:17 UTC] PHP   4. require_once() C:\Users\User\Local Sites\planning\app\public\wp-load.php:50
+[26-Feb-2022 06:28:17 UTC] PHP   5. require_once() C:\Users\User\Local Sites\planning\app\public\wp-config.php:77
+[26-Feb-2022 06:28:17 UTC] PHP   6. include_once() C:\Users\User\Local Sites\planning\app\public\wp-settings.php:418
+[26-Feb-2022 06:28:17 UTC] PHP Fatal error:  require(): Failed opening required 'C:\Users\User\Local Sites\planning\app\public/wp-content/themes/twentytwentytwo/src/init.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\plugin.php on line 27
+[26-Feb-2022 06:28:17 UTC] PHP Stack trace:
+[26-Feb-2022 06:28:17 UTC] PHP   1. {main}() C:\Users\User\Local Sites\planning\app\public\index.php:0
+[26-Feb-2022 06:28:17 UTC] PHP   2. require() C:\Users\User\Local Sites\planning\app\public\index.php:17
+[26-Feb-2022 06:28:17 UTC] PHP   3. require_once() C:\Users\User\Local Sites\planning\app\public\wp-blog-header.php:13
+[26-Feb-2022 06:28:17 UTC] PHP   4. require_once() C:\Users\User\Local Sites\planning\app\public\wp-load.php:50
+[26-Feb-2022 06:28:17 UTC] PHP   5. require_once() C:\Users\User\Local Sites\planning\app\public\wp-config.php:77
+[26-Feb-2022 06:28:17 UTC] PHP   6. include_once() C:\Users\User\Local Sites\planning\app\public\wp-settings.php:418
+[26-Feb-2022 06:30:33 UTC] PHP Parse error:  syntax error, unexpected '>' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 115
+[26-Feb-2022 06:30:33 UTC] PHP Parse error:  syntax error, unexpected '>' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 115
+[26-Feb-2022 06:30:34 UTC] PHP Parse error:  syntax error, unexpected '>' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 115
+[26-Feb-2022 06:39:05 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 121
+[26-Feb-2022 06:39:35 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\User\Local Sites\planning\app\public\wp-content\plugins\my-blocklang\src\init.php on line 121

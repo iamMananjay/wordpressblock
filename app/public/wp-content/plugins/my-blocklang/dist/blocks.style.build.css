@@ -1,0 +1,78 @@
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+.wp-block-cgb-block-my-blocklang {
+  background: orangered;
+  border: 0.2rem solid #292929;
+  color: #292929;
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 2rem; }
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+.has-spacing-Red > li::marker {
+  color: red; }
+
+.has-spacing-Blue > li::marker {
+  color: blue; }
+
+.has-spacing-default > li::marker {
+  color: black; }
+
+.has-spacings-Reds li ul li::marker {
+  color: red; }
+
+.has-spacings-Blues li ul li::marker {
+  color: blue; }
+
+.has-spacings-defaults li ul li::marker {
+  color: black; }
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+.contact_box {
+  background-color: #aa5050;
+  padding-top: 25px;
+  padding-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  border-radius: 20px; }
+
+.contact_wrapper {
+  padding-left: 30px; }
+
+@media only screen and (min-width: 576px) {
+  .contact_wrapper {
+    padding-left: 30px; }
+  .contact_wrapper {
+    display: block;
+    margin: 0 auto;
+    padding-left: 10px; } }
+
+.contact_info {
+  max-width: 667px;
+  width: 100%;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  margin: 0 auto;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap; }
